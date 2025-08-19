@@ -116,7 +116,7 @@ This project was brought to life by a dedicated team of 11 students from the **i
 | *S.A.M.V.I.D. in action at the museum* | *The project team with the robot* |
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/0" alt="S.A.M.V.I.D Project Poster" width="800"/>
+  <img src="S.A.M.V.I.D_Images/OpenHouse_Poster.jpg" alt="S.A.M.V.I.D Project Poster" width="800"/>
 </p>
 
 ---
