@@ -48,8 +48,8 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 | **Core Framework** | `ROS 2 Humble`                                                |
 | **Hardware** | NVIDIA Jetson, ESP32, Arduino Mega, Cytron Motor Drivers      |
 | **Sensors** | LiDAR, Intel RealSense Depth Cameras, IMU                     |
-| **AI & Software** | Python, C++, Retrieval-Augmented Generation (RAG), ASR Models |
-| **User Interface** | Touchscreen Display with a custom Web UI, Wakeword, Speech Recognition                    |
+| **AI / Interaction** | Wakeword Detection, Multilingual ASR, RAG for Conversational Q&A      |
+| **User Interface** | Interactive Touchscreen (Custom Web UI), ReSpeaker Mic Array          |
 
 ---
 
