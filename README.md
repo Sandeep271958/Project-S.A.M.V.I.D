@@ -7,7 +7,7 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 
 ---
 
-## 📜 Table of Contents
+## Table of Contents
 
 - [Core Features](#-core-features)
 - [Tech Stack](#️-tech-stack)
