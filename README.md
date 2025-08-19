@@ -3,6 +3,8 @@
 
 **S.A.M.V.I.D (System for Autonomous Museum Visits and Interactive Displays)** is an autonomous humanoid guide robot developed to redefine the visitor experience in museums. It offers dynamic, hands-free guided tours with multilingual conversational interaction, Q&A, and intelligent navigation.
 
+The robot was built specifically for **India’s First Constitutional Museum** at Sonipat, Haryana, in collaboration with **Jindal Global University**, and was inaugurated and deployed on the occasion of the **75th Constitutional Day**.
+
 Developed in a tight two-month timeline at the **Centre for Innovation (CFI), IIT Madras**, this project represents a significant milestone in student-led innovation in robotics and AI.
 
 ---
@@ -61,10 +63,10 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 - **Best Hardware Project Award (2024–25):** at the Centre for Innovation, IIT Madras.
 
 ### Media Links
-- [Article on the Project](https://example.com/article-link)
-- [YouTube Video](https://youtube.com/example)
-- [IITM LinkedIn Video](https://linkedin.com/example-video)
-- [IITM LinkedIn Post](https://linkedin.com/example-post)
+- [Article on the Project](https://www.thehindu.com/news/national/tamil-nadu/iit-m-students-develop-robot-for-op-jindal-universitys-constitution-museum/article68863807.ece)
+- [YouTube Video](https://youtu.be/DQfoyurXsFA?si=shBC_hgf3OSulV6E)
+- [IITM LinkedIn Video]([https://linkedin.com/example-video](https://www.linkedin.com/feed/update/urn:li:activity:7310137447776952320/))
+- [IITM Post](https://linkedin.com/example-post](https://x.com/iitmadras/status/1859572619634466844))
 
 ---
 
