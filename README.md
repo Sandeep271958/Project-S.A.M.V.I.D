@@ -57,8 +57,14 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 
 - **Successful Deployment:** Fully deployed at the **Constitutional Museum of OP Jindal University**, where it successfully guided esteemed individuals and visitors.
 - **Published Research:** A paper on the project, titled **"InnoGuide-GPT,"** was published and presented at the **AIMLSystems Conference**.
-- **Media Coverage:** Celebrated and featured across various national news and TV channels.
-- **Best Hardware Project Award (2024–25)** at the Centre for Innovation, IIT Madras.
+- **Media Coverage:** Celebrated and featured across various national news and TV channels. 
+- **Best Hardware Project Award (2024–25):** at the Centre for Innovation, IIT Madras.
+
+### Media Links
+- [Article on the Project](https://example.com/article-link)
+- [YouTube Video](https://youtube.com/example)
+- [IITM LinkedIn Video](https://linkedin.com/example-video)
+- [IITM LinkedIn Post](https://linkedin.com/example-post)
 
 ---
 
