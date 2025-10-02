@@ -14,13 +14,14 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 <img src="S.A.M.V.I.D_Images/SAMVID_Robot.jpg" alt="Hi! I'm SAMVID" align="right" width="250"/>
 
 - [Core Features](#core-features)
-- [Tech Stack](#️tech-stack)
+- [Tech Stack](#tech-stack)
 - [Key Achievements & Recognition](#key-achievements--recognition)
 - [Deployments](#deployments)
 - [Future Work](#future-work)
 - [The Team](#the-team)
-- [Gallery](#️gallery)
+- [Gallery](#gallery)
 - [Contact & License](#contact--license)
+
 
 
 
