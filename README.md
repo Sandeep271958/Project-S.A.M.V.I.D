@@ -7,11 +7,11 @@ The robot was built specifically for **India’s First Constitutional Museum** a
 
 Developed in a tight two-month timeline at the **Centre for Innovation (CFI), IIT Madras**, this project represents a significant milestone in student-led innovation in robotics and AI.
 
-![Hi! I'm SAMVID](S.A.M.V.I.D_Images/SAMVID_Robot.jpg)
 
 ---
 
 ## Table of Contents
+<img src="S.A.M.V.I.D_Images/SAMVID_Robot.jpg" alt="Hi! I'm SAMVID" align="right" width="250"/>
 
 - [Core Features](#-core-features)
 - [Tech Stack](#️-tech-stack)
@@ -22,7 +22,6 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 - [Gallery](#️-gallery)
 - [Contact & License](#-contact--license)
 
-<img src="S.A.M.V.I.D_Images/SAMVID_Robot.jpg" alt="Hi! I'm SAMVID" align="right" width="250"/>
 
 
 ---
