@@ -71,7 +71,7 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 - [Article on the Project](https://www.thehindu.com/news/national/tamil-nadu/iit-m-students-develop-robot-for-op-jindal-universitys-constitution-museum/article68863807.ece)
 - [YouTube Video](https://youtu.be/DQfoyurXsFA?si=shBC_hgf3OSulV6E)
 - [IITM LinkedIn Video](https://www.linkedin.com/feed/update/urn:li:activity:7310137447776952320/)
-- [IITM Post](https://x.com/iitmadras/status/1859572619634466844)
+- [IITM Post](https://www.linkedin.com/posts/reachiitm_innovation-iitmadras-jgu-activity-7265335315303718912-f59n/)
 
 ---
 
