@@ -70,7 +70,7 @@ Developed in a tight two-month timeline at the **Centre for Innovation (CFI), II
 - [Article on the Project](https://www.thehindu.com/news/national/tamil-nadu/iit-m-students-develop-robot-for-op-jindal-universitys-constitution-museum/article68863807.ece)
 - [YouTube Video](https://youtu.be/DQfoyurXsFA?si=shBC_hgf3OSulV6E)
 - [IITM LinkedIn Video](https://www.linkedin.com/feed/update/urn:li:activity:7310137447776952320/)
-- [IITM Post](https://linkedin.com/example-post](https://x.com/iitmadras/status/1859572619634466844))
+- [IITM Post](https://x.com/iitmadras/status/1859572619634466844)
 
 ---
 
@@ -125,6 +125,8 @@ This project was brought to life by a dedicated team of 11 students from the **i
 <p align="center">
   <img src="S.A.M.V.I.D_Images/OpenHouse_Poster.jpg" alt="S.A.M.V.I.D Project Poster" width="800"/>
 </p>
+
+Please find more images [here](S.A.M.V.I.D_Images)
 
 ---
 
